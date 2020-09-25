@@ -1,0 +1,4 @@
+Hi there , this is an example of editing a file.
+My name is Edward.
+I am using Windows inside my Mac.
+It's a little confusing, but ok.
